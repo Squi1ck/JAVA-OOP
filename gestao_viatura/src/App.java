@@ -5,7 +5,7 @@ public class App {
 
         carro.setNumRodas(4);
         carro.setTipo("Carro Desportivo");
-        carro.velMaxima(120);
+        carro.setVelMaxima(120);
 
         carro.mostraInfo();
 
